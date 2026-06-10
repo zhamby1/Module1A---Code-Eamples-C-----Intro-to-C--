@@ -33,7 +33,7 @@ int main()
     //we can convert the integers to doubles before we divide them to get a more accurate result
     int i = 7;
     int j = 2;
-    //this often should be necesasary because you should be asking for the right or using the right data type to begin with
+    //this often shouldn't be necesasary because you should be asking for the right or using the right data type to begin with
     double quotient2 = double(i) / double(j);
 
     //solution 2 is make i and j doubles
